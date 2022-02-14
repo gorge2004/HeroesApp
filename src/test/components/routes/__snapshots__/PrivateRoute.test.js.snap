@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing_privateRoute should_not_render_correct_components 1`] = `
+<span>
+  Saliendo de aqui
+</span>
+`;
+
+exports[`testing_privateRoute should_render_correct_components 1`] = `
+<h1>
+  Private Route
+</h1>
+`;
